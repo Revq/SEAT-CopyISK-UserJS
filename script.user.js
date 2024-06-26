@@ -5,7 +5,7 @@
 // @author       Revq
 // @namespace  	 https://github.com/Revq
 // @license   	 MIT
-// @match        *://seat.alwaysbait.com/srp/*
+// @match        *://seat.alwaysbait.com/srp
 // @run-at document-idle
 // @updateURL    https://github.com/Revq/SEAT-CopyISK-UserJS/raw/main/script.user.js
 // @downloadURL  https://github.com/Revq/SEAT-CopyISK-UserJS/raw/main/script.user.js
