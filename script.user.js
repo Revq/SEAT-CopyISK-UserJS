@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Ship Cost Clipboard Copy
-// @version      1.0.1
+// @version      1.0.2
 // @description  Copy ship cost to clipboard on left click
 // @author       Revq
 // @namespace  	 https://github.com/Revq
 // @license   	 MIT
-// @match        *://seat.alwaysbait.com/srp
+// @match        *://seat.alwaysbait.com/srp/admin
 // @run-at document-idle
 // @updateURL    https://github.com/Revq/SEAT-CopyISK-UserJS/raw/main/script.user.js
 // @downloadURL  https://github.com/Revq/SEAT-CopyISK-UserJS/raw/main/script.user.js
