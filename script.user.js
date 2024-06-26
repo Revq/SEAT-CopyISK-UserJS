@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Ship Cost Clipboard Copy
-// @version      1.0
+// @version      1.0.1
 // @description  Copy ship cost to clipboard on left click
 // @author       Revq
 // @namespace  	 https://github.com/Revq
